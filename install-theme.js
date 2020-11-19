@@ -16,6 +16,7 @@ console.log('Deleting this repo from your machine')
 deleteFolderRecursive(repoPath)
 console.log(repoPath, 'deleted')
 console.log('\nYou\'re done! Enjoy the mood.')
+console.log('♻ You might want to restart VS Code')
 
 // from https://stackoverflow.com/questions/13786160/copy-folder-recursively-in-node-js
 function copyFileSync( source, target ) {
