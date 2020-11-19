@@ -1,5 +1,6 @@
 # Purpulsh
 > VS Code purple-yellow-ish theme with low contrast 🔮
+
 ![](https://github.com/Akronae/purpulsh/raw/main/res/img/theme-screenshot.png)
 
 # Installation (requires node)
